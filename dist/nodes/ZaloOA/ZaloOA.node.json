@@ -1,0 +1,20 @@
+{
+    "node": "n8n-nodes-base.ZaloOA",
+    "nodeVersion": "1.0",
+    "codexVersion": "1.0",
+    "categories": [
+        "Miscellaneous"
+    ],
+    "resources": {
+        "credentialDocumentation": [
+            {
+                "url": "https://developers.zalo.me/docs/api/official-account-api/xac-thuc-va-uy-quyen/cach-1-xac-thuc-voi-giao-thuc-oauth/yeu-cau-cap-moi-oa-access-token-post-4307"
+            }
+        ],
+        "primaryDocumentation": [
+            {
+                "url": "https://developers.zalo.me/docs/api/official-account-api-230"
+            }
+        ]
+    }
+}
